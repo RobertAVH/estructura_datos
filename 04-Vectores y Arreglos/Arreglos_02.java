@@ -10,6 +10,10 @@ public class Arreglos_02 {
         enteros[0] = 13;
         enteros[1] = 21;
         enteros[4] = 62;
-
+        
+        for (int i = 0; i < enteros.length; i++) {
+            System.out.println(enteros[i]);
+        }
+        
     }
 }

@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "01-Variables y Operadores",
+        "02-Sentencias de control",
+        "03-Ciclos",
+        "04-Vectores y Arreglos",
+        "05-Ordenamientos"
+    ],
+    "java.project.referencedLibraries": []
+}
